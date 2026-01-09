@@ -1,6 +1,6 @@
 # SketchLink 🎨
 
-A real-time multiplayer drawing & guessing game. Basically wanted to play Skribbl with friends without all the ads, so I built my own.
+A real-time multiplayer drawing & guessing game. So I wanted to play Skribbl with my friends and was like can I make something like this. Well here is what I tried and achieved.
 
 **[Play it here →](https://sketchlinks.vercel.app)**
 
@@ -8,7 +8,7 @@ A real-time multiplayer drawing & guessing game. Basically wanted to play Skribb
 
 ## What is this?
 
-You draw stuff, your friends guess what it is. Simple as that. No downloads, no accounts - just share the link and you're good to go.
+You draw stuff and your friends guess what it is. Simple as that. No downloads, no accounts - just share the link and you're good to go.
 
 Built this as a side project to learn websockets and real-time canvas stuff. Pretty happy with how it turned out!
 
