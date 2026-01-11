@@ -100,7 +100,7 @@ Honestly wasn't sure which license to use, MIT seemed like the most flexible opt
 **Aayush Acharya**  
 - GitHub: [@acharya-aayush](https://github.com/acharya-aayush)
 - LinkedIn: [Aayush Acharya](https://www.linkedin.com/in/acharyaaayush/)
-- Email: [acharya.acharyaaayush2k4@gmail.com](mailto:acharya.acharyaaayush2k4@gmail.com)
+- Email: [acharyaaayush2k4@gmail.com](mailto:acharyaaayush2k4@gmail.com)
 
 ---
 
