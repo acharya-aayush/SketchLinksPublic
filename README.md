@@ -90,6 +90,7 @@ Some things I'd love help with:
 
 - Server cold starts take 30-50 seconds (Render free tier thing)
 - Canvas might lag on older phones
+- After multiple events the game might crash due to Render free tier thing.
 
 ## Why MIT License?
 
